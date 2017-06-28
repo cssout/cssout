@@ -1,0 +1,149 @@
+textarea{cursor:text;}
+.down{vertical-align:middle;}
+#div_35c5_0{position:fixed; left:0px; top:0px;z-index:100;}
+#h4_2c82_0{display:none}
+#h1_0{display:none;}
+#textarea_0{width:100%; height:300px;}
+#span_0{font-weight:bold;}
+#txtOrigHTMLCode{width:100%; height:300px; border:1px solid gray;}
+#span_1{font-weight:bold;}
+#textarea_1{width:100%; height:300px; border:1px solid gray;}
+#span_2{font-weight:bold;}
+#textarea_2{width:100%; height:300px; border:1px solid gray;}
+
+img
+{
+  filter: expression(artFixPNG(this));
+}/* end Page */
+
+/* begin Box, Sheet */
+.cssout-sheet-tl
+{
+  clip: rect(auto 13px 13px auto);
+}
+
+.cssout-sheet-tr
+{
+  clip: rect(auto auto 13px 13px);
+}
+
+.cssout-sheet-bl
+{
+  clip: rect(13px 13px auto auto);
+}
+
+.cssout-sheet-br
+{
+  clip: rect(13px auto auto 13px);
+}
+
+.cssout-sheet-tc
+{
+  clip: rect(auto auto 13px auto);
+}
+
+.cssout-sheet-bc
+{
+  clip: rect(13px auto auto auto);
+}
+
+.cssout-sheet-cr
+{
+  clip: rect(auto auto auto 13px);
+}
+
+.cssout-sheet-cl
+{
+  clip: rect(auto 13px auto auto);
+}
+
+.cssout-sheet-body
+{
+  zoom: 1;
+}
+/* end Box, Sheet */
+
+/* begin Menu */
+.cssout-nav-r
+{
+  clip: rect(auto auto auto 1920px);
+}
+
+/* end Menu */
+
+/* begin MenuItem */
+.cssout-hmenu a .r
+{
+  clip: rect(auto auto auto 400px);
+}
+/* end MenuItem */
+
+/* begin Layout */
+.cssout-content-layout, .cssout-content-layout-row {display: block;}
+.cssout-content-layout, .cssout-content-layout-row {zoom: 1;}
+/* end Layout */
+
+/* begin Box, Block */
+
+.cssout-block-body
+{
+  zoom: 1;
+}
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+
+.cssout-blockcontent-body
+{
+  zoom: 1;
+}
+/* end Box, BlockContent */
+
+/* begin Button */
+.cssout-button-wrapper .cssout-button-r
+{
+  clip: rect(auto auto auto 405px);
+}
+/* end Button */
+
+/* begin Box, Post */
+
+.cssout-post-body
+{
+  zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.cssout-postcontent
+{
+  height: 1%;
+}
+/* end PostContent */
+
+/* begin Footer */
+.cssout-footer-body
+{
+    padding-right: 0;
+  zoom:1;
+}
+
+.cssout-footer{
+  zoom:1;
+}
+
+/* end Footer */
+
+/* begin LayoutCell, content */
+.cssout-content {width: auto;}
+.cssout-content-layout .cssout-layout-cell, .cssout-content-layout .cssout-layout-cell .cssout-content-layout .cssout-layout-cell
+{
+  display: block;
+  position:relative;
+  float: left;
+  clear: right;
+}
+.cssout-content-layout .cssout-layout-cell, .cssout-content-layout .cssout-layout-cell .cssout-content-layout .cssout-layout-cell {  zoom:1; }
+.cssout-layout-cell .cssout-layout-cell{ float: none; clear: both;}
+/* end LayoutCell, content */
+

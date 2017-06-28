@@ -1,0 +1,1331 @@
+textarea{cursor:text;}
+.down{vertical-align:middle;}
+#div_35c5_0{position:fixed; left:0px; top:0px;z-index:100;}
+#h4_2c82_0{display:none}
+#textarea_0{width:100%; height:300px;}
+#span_0{font-weight:bold;}
+#txtOrigHTMLCode{width:100%; height:300px; border:1px solid gray;}
+#span_1{font-weight:bold;}
+#textarea_1{width:100%; height:300px; border:1px solid gray;}
+#span_2{font-weight:bold;}
+#textarea_2{width:100%; height:300px; border:1px solid gray;}
+#h1_0{display:none;}
+
+#cssout-main, table
+{
+    font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cssout-postcontent,
+.cssout-postcontent li,
+.cssout-postcontent table,
+.cssout-postcontent a,
+.cssout-postcontent a:link,
+.cssout-postcontent a:visited,
+.cssout-postcontent a.visited,
+.cssout-postcontent a:hover,
+.cssout-postcontent a.hovered
+{
+    font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+}
+
+.cssout-postcontent p
+{
+    margin: 12px 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link,
+h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover
+{
+  font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.cssout-postcontent a
+{
+  text-decoration: none;
+  color: #117BA1;
+}
+
+.cssout-postcontent a:link
+{
+  text-decoration: none;
+  color: #117BA1;
+}
+
+.cssout-postcontent a:visited, .cssout-postcontent a.visited
+{
+  color: #3A89B0;
+}
+
+.cssout-postcontent  a:hover, .cssout-postcontent a.hover
+{
+  text-decoration: underline;
+  color: #00C7EB;
+}
+
+.cssout-postcontent h1
+{
+   color: #17A1D4;
+margin: 21px 0;    
+}
+
+.cssout-blockcontent h1
+{
+margin: 21px 0; 
+}
+
+.cssout-postcontent h2
+{
+   color: #17A1D4;
+margin: 19px 0;
+   font-size: 26px;    
+}
+
+.cssout-blockcontent h2
+{
+margin: 19px 0;
+   font-size: 26px; 
+}
+
+.cssout-postcontent h2 a, .cssout-postcontent h2 a:link, .cssout-postcontent h2 a:hover, .cssout-postcontent h2 a:visited, .cssout-blockcontent h2 a, .cssout-blockcontent h2 a:link, .cssout-blockcontent h2 a:hover, .cssout-blockcontent h2 a:visited 
+{
+   font-size: 26px; 
+}
+
+.cssout-postcontent h3
+{
+   color: #5EA6CA;
+margin: 19px 0;
+   font-size: 21px;    
+}
+
+.cssout-blockcontent h3
+{
+margin: 19px 0;
+   font-size: 21px; 
+}
+
+.cssout-postcontent h3 a, .cssout-postcontent h3 a:link, .cssout-postcontent h3 a:hover, .cssout-postcontent h3 a:visited, .cssout-blockcontent h3 a, .cssout-blockcontent h3 a:link, .cssout-blockcontent h3 a:hover, .cssout-blockcontent h3 a:visited 
+{
+   font-size: 21px; 
+}
+
+.cssout-postcontent h4
+{
+   color: #14303D;
+margin: 20px 0;
+   font-size: 18px;    
+}
+
+.cssout-blockcontent h4
+{
+margin: 20px 0;
+   font-size: 18px; 
+}
+
+.cssout-postcontent h4 a, .cssout-postcontent h4 a:link, .cssout-postcontent h4 a:hover, .cssout-postcontent h4 a:visited, .cssout-blockcontent h4 a, .cssout-blockcontent h4 a:link, .cssout-blockcontent h4 a:hover, .cssout-blockcontent h4 a:visited 
+{
+   font-size: 18px; 
+}
+
+.cssout-postcontent h5
+{
+   color: #14303D;
+margin: 26px 0;
+   font-size: 14px;    
+}
+
+.cssout-blockcontent h5
+{
+margin: 26px 0;
+   font-size: 14px; 
+}
+
+.cssout-postcontent h5 a, .cssout-postcontent h5 a:link, .cssout-postcontent h5 a:hover, .cssout-postcontent h5 a:visited, .cssout-blockcontent h5 a, .cssout-blockcontent h5 a:link, .cssout-blockcontent h5 a:hover, .cssout-blockcontent h5 a:visited 
+{
+   font-size: 14px; 
+}
+
+.cssout-postcontent h6
+{
+   color: #1D4558;
+margin: 35px 0;
+   font-size: 12px;    
+}
+
+.cssout-blockcontent h6
+{
+margin: 35px 0;
+   font-size: 12px; 
+}
+
+.cssout-postcontent h6 a, .cssout-postcontent h6 a:link, .cssout-postcontent h6 a:hover, .cssout-postcontent h6 a:visited, .cssout-blockcontent h6 a, .cssout-blockcontent h6 a:link, .cssout-blockcontent h6 a:hover, .cssout-blockcontent h6 a:visited 
+{
+   font-size: 12px; 
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+ol
+{
+  list-style-position: inside;
+}
+
+html 
+{
+    height:100%;
+}
+
+#cssout-main
+{
+  display: inline-block;
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  left: 0;
+  top: 0;
+  cursor:default;
+  overflow:visible;
+  float: left;
+  clear: left;
+}
+
+body
+{
+  padding: 0; 
+  margin:0;
+  color: #14303D;
+  height:100%;
+  min-height:100%;
+  background-color: #E6F3F9;
+  background-image: url('images/Bottom_texture.jpg');
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-position: top left;
+  min-width: 700px;
+}
+
+.cleared
+{
+  display:block;
+  clear: both;
+  float: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 0;
+  height:0;
+  overflow:hidden;
+}
+
+.reset-box
+{
+  overflow:hidden;
+  display:table; 
+}
+
+form
+{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+table.position
+{
+  position: relative;
+  width: 100%;
+  table-layout: fixed;
+}
+/* end Page */
+
+/* begin MenuFluidBg */
+div#cssout-hmenu-bg
+{
+  position: absolute;
+  overflow:hidden;
+  top:0;
+  left:0;
+  margin:0 auto;
+  width: 100%;
+  height: 28px;
+  z-index:0;
+}
+/* end MenuFluidBg */
+
+/* begin Box, Sheet */
+.cssout-sheet
+{
+  position: relative;
+  margin: 0 auto;
+  min-height: 15px;
+  margin-top: 0;
+  margin-bottom: -3px;
+  cursor:auto;
+  width: 90%;
+  min-width: 700px;
+  max-width: 1728px;
+}
+
+.cssout-sheet-body
+{
+  position: relative;
+  padding: 4px;
+    padding-top:0;
+    padding-bottom:4px;
+}
+
+.cssout-sheet-tr, .cssout-sheet-tl, .cssout-sheet-br, .cssout-sheet-bl, .cssout-sheet-tc, .cssout-sheet-bc,.cssout-sheet-cr, .cssout-sheet-cl
+{
+  position: absolute;
+}
+
+.cssout-sheet-tr, .cssout-sheet-tl, .cssout-sheet-br, .cssout-sheet-bl
+{
+  width: 26px;
+  height: 26px;
+  background-image: url('images/sheet_s.png');
+}
+
+.cssout-sheet-tl
+{
+  top: 0;
+  left: 0;
+  clip: rect(auto, 13px, 13px, auto);
+}
+
+.cssout-sheet-tr
+{
+  top: 0;
+  right: 0;
+  clip: rect(auto, auto, 13px, 13px);
+}
+
+.cssout-sheet-bl
+{
+  bottom: 0;
+  left: 0;
+  clip: rect(13px, 13px, auto, auto);
+}
+
+.cssout-sheet-br
+{
+  bottom: 0;
+  right: 0;
+  clip: rect(13px, auto, auto, 13px);
+}
+
+.cssout-sheet-tc, .cssout-sheet-bc
+{
+  left: 13px;
+  right: 13px;
+  height: 26px;
+  background-image: url('images/sheet_h.png');
+}
+
+.cssout-sheet-tc
+{
+  top: 0;
+  clip: rect(auto, auto, 13px, auto);
+}
+
+.cssout-sheet-bc
+{
+  bottom: 0;
+  clip: rect(13px, auto, auto, auto);
+}
+
+.cssout-sheet-cr, .cssout-sheet-cl
+{
+  top: 13px;
+  bottom: 13px;
+  width: 26px;
+  background-image: url('images/sheet_v.png');
+}
+
+.cssout-sheet-cr
+{
+  right: 0;
+  clip: rect(auto, auto, auto, 13px);
+}
+
+.cssout-sheet-cl
+{
+  left: 0;
+  clip: rect(auto, 13px, auto, auto);
+}
+
+.cssout-sheet-cc
+{
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  right: 13px;
+  bottom: 13px;
+  background-color: #FFFFFF;
+}
+
+#cssout-page-background-top-texture, #cssout-page-background-middle-texture, #cssout-page-background-glare
+{
+  min-width: 90%;
+}
+
+/* end Box, Sheet */
+
+/* begin Menu */
+/* menu structure */
+
+.cssout-hmenu a, .cssout-hmenu a:link, .cssout-hmenu a:visited, .cssout-hmenu a:hover
+{
+    outline: none;
+}
+
+.cssout-hmenu, .cssout-hmenu ul
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style-type: none;
+  display: block;
+}
+
+.cssout-hmenu li
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  float: left;
+  position: relative;
+  z-index: 5;
+  background: none;
+}
+
+.cssout-hmenu li:hover
+{
+  z-index: 10000;
+  white-space: normal;
+}
+
+.cssout-hmenu li li
+{
+  float: none;
+}
+
+.cssout-hmenu ul
+{
+  visibility: hidden;
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  top: 0;
+  background: none;
+  min-height: 0;
+  background-image: url('images/spacer.gif');
+  padding: 10px 30px 30px 30px;
+  margin: -10px 0 0 -30px;
+}
+
+.cssout-hmenu li:hover>ul
+{
+  visibility: visible;
+  top: 100%;
+}
+
+.cssout-hmenu li li:hover>ul
+{
+  top: 0;
+  left: 100%;
+}
+
+.cssout-hmenu:after, .cssout-hmenu ul:after
+{
+  content: ".";
+  height: 0;
+  display: block;
+  visibility: hidden;
+  overflow: hidden;
+  clear: both;
+}
+.cssout-hmenu{
+  min-height: 0;
+  position:relative;
+  padding: 0 0 0 0;
+}
+
+.cssout-hmenu ul ul
+{
+  padding: 30px 30px 30px 10px;
+  margin: -30px 0 0 -10px;
+}
+
+/* menu structure */
+
+.cssout-nav
+{
+   position: relative;
+  margin:0 auto;
+  min-height: 28px;
+  z-index: 100;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cssout-nav-outer
+{
+    position:absolute;
+    width:100%;
+}
+
+.cssout-nav-l, .cssout-nav-r
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  height: 100%;
+  background-image: url('images/nav.png');
+}
+
+.cssout-nav-l
+{
+  left: 0;
+  right: 0;
+}
+
+.cssout-nav-r
+{
+  right: 0;
+  width: 1920px;
+  clip: rect(auto, auto, auto, 1920px);
+}
+
+/* end Menu */
+
+/* begin MenuItem */
+.cssout-hmenu a
+{
+  position: relative;
+  display: block;
+  overflow: hidden;
+  height: 28px;
+  cursor: pointer;
+  text-align: left;
+  text-decoration: none;
+}
+
+.cssout-hmenu ul li
+{
+    margin:0;
+    clear: both;
+}
+
+.cssout-hmenu a .r, .cssout-hmenu a .l
+{
+  position: absolute;
+  display: block;
+  top: 0;
+  z-index: -1;
+  height: 94px;
+  background-image: url('images/menuitem.png');
+}
+
+.cssout-hmenu a .l
+{
+  left: 0;
+  right: 0;
+}
+
+.cssout-hmenu a .r
+{
+  width: 400px;
+  right: 0;
+  clip: rect(auto, auto, auto, 400px);
+}
+
+.cssout-hmenu a .t, .cssout-hmenu ul a, .cssout-hmenu a:link, .cssout-hmenu a:visited, .cssout-hmenu a:hover
+{
+  text-align: left;
+  text-decoration: none;
+}
+
+.cssout-hmenu a .t
+{
+  color: #C9E6F3;
+  padding: 0 12px;
+  margin: 0 0;
+  line-height: 28px;
+  text-align: center;
+}
+
+.cssout-hmenu a:hover .l, .cssout-hmenu a:hover .r
+{
+  top: -33px;
+}
+
+.cssout-hmenu li:hover>a .l, .cssout-hmenu li:hover>a .r
+{
+  top: -33px;
+}
+
+.cssout-hmenu li:hover a .l, .cssout-hmenu li:hover a .r
+{
+  top: -33px;
+}
+.cssout-hmenu a:hover .t
+{
+  color: #0A2029;
+}
+
+.cssout-hmenu li:hover a .t
+{
+  color: #0A2029;
+}
+
+.cssout-hmenu li:hover>a .t
+{
+  color: #0A2029;
+}
+
+.cssout-hmenu a.active .l, .cssout-hmenu a.active .r
+{
+  top: -66px;
+}
+
+.cssout-hmenu a.active .t
+{
+  color: #C1E2F1;
+}
+/* end MenuItem */
+
+/* begin MenuSeparator */
+.cssout-hmenu .cssout-hmenu-li-separator
+{
+  display: block;
+  width: 1px;
+  height:28px;
+}
+.cssout-nav .cssout-hmenu-separator
+{
+  display: block;
+  margin:0 auto;
+  width: 1px;
+  height: 28px;
+  background-image: url('images/menuseparator.png');
+}
+/* end MenuSeparator */
+
+/* begin MenuSubItem */
+.cssout-hmenu ul a
+{
+  display: block;
+  white-space: nowrap;
+  height: 26px;
+  width: 180px;
+  overflow: hidden;
+  background-image: url('images/subitem.png');
+  background-position: left top;
+  background-repeat: repeat-x;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #75CFF0;
+  text-align: left;
+  text-indent: 12px;
+  text-decoration: none;
+  line-height: 26px;
+  color: #093F53;
+  font-size: 13px;
+  margin:0;
+  padding:0;
+}
+
+.cssout-nav ul.cssout-hmenu ul span, .cssout-nav ul.cssout-hmenu ul span span
+{
+  display: inline;
+  float: none;
+  margin: inherit;
+  padding: inherit;
+  background-image: none;
+  text-align: inherit;
+  text-decoration: inherit;
+}
+
+.cssout-hmenu ul a:link, .cssout-hmenu ul a:visited, .cssout-hmenu ul a:hover, .cssout-hmenu ul a:active, .cssout-nav ul.cssout-hmenu ul span, .cssout-nav ul.cssout-hmenu ul span span
+{
+  text-align: left;
+  text-indent: 12px;
+  text-decoration: none;
+  line-height: 26px;
+  color: #093F53;
+  font-size: 13px;
+  margin:0;
+  padding:0;
+}
+
+.cssout-hmenu ul li a:hover
+{
+  color: #000000;
+  border-color: #75CFF0;
+  background-position: 0 -26px;
+}
+
+.cssout-hmenu ul li:hover>a
+{
+  color: #000000;
+  border-color: #75CFF0;
+  background-position: 0 -26px;
+}
+
+.cssout-nav .cssout-hmenu ul li a:hover span, .cssout-nav .cssout-hmenu ul li a:hover span span
+{
+  color: #000000;
+}
+
+.cssout-nav .cssout-hmenu ul li:hover>a span, .cssout-nav .cssout-hmenu ul li:hover>a span span
+{
+  color: #000000;
+}
+
+/* end MenuSubItem */
+
+/* begin Layout */
+.cssout-content-layout
+{
+  display: table;
+  position:relative;
+  margin: 0 auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+  background-color: Transparent;
+  border: none !important;
+  padding:0 !important;
+  width:100%;
+  margin-top:0;
+  margin-bottom:0;
+}
+.cssout-layout-cell, .cssout-content-layout-row
+{
+  background-color: Transparent;
+  vertical-align: top;
+  text-align: left;
+  border: none;
+  margin:0;
+  padding:0;
+}
+
+.cssout-content-layout .cssout-content-layout{margin:0;}
+.cssout-content-layout .cssout-layout-cell, .cssout-content-layout .cssout-layout-cell .cssout-content-layout .cssout-layout-cell{display: table-cell;}
+.cssout-layout-cell .cssout-layout-cell{display: block;}
+.cssout-content-layout-row {display: table-row;}
+.cssout-layout-glare{position:relative;}/* end Layout */
+
+/* begin Box, Block */
+.cssout-block
+{
+  position: relative;
+  min-width: 1px;
+  min-height: 1px;
+  margin: 7px;
+}
+
+.cssout-block-body
+{
+  position: relative;
+  padding: 5px;
+}
+
+div.cssout-block img
+{
+/* WARNING do NOT collapse this to 'border' - inheritance! */
+    border-color: #97C6DD;
+  border-style: solid;
+  margin: 10px;
+}
+
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+.cssout-blockcontent
+{
+  position: relative;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.cssout-blockcontent-body
+{
+  position: relative;
+  padding: 0;
+  color: #14303D;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 14px;
+}
+
+.cssout-blockcontent-body table,
+.cssout-blockcontent-body li, 
+.cssout-blockcontent-body a,
+.cssout-blockcontent-body a:link,
+.cssout-blockcontent-body a:visited,
+.cssout-blockcontent-body a:hover
+{
+  color: #14303D;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 14px;
+}
+
+.cssout-blockcontent-body p
+{
+  margin: 6px 0;
+}
+
+.cssout-blockcontent-body a, .cssout-blockcontent-body a:link
+{
+  color: #17A1D4;
+  text-decoration: underline;
+}
+
+.cssout-blockcontent-body a:visited, .cssout-blockcontent-body a.visited
+{
+  color: #5EA6CA; 
+  text-decoration: none;
+}
+
+.cssout-blockcontent-body a:hover, .cssout-blockcontent-body a.hover
+{
+  color: #00C7EB;
+  text-decoration: none;
+}
+
+.cssout-blockcontent-body ul li
+{
+  line-height: 125%;    
+  color: #347A9D;
+  padding: 0 0 0 12px;
+  background-image: url('images/blockcontentbullets.png');
+  background-repeat: no-repeat;
+}/* end Box, BlockContent */
+
+/* begin Button */
+.cssout-button-wrapper a.cssout-button,
+.cssout-button-wrapper a.cssout-button:link,
+.cssout-button-wrapper input.cssout-button,
+.cssout-button-wrapper button.cssout-button
+{
+  text-decoration: none;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  position:relative;
+  top:0;
+  display: inline-block;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-align: center;
+  color: #C8ECF9 !important;
+  width: auto;
+  outline: none;
+  border: none;
+  background: none;
+  line-height: 28px;
+  height: 28px;
+  margin: 0 !important;
+  padding: 0 10px !important;
+  overflow: visible;
+  cursor: pointer;
+}
+
+.cssout-button img, .cssout-button-wrapper img
+{
+  margin: 0;
+  vertical-align: middle;
+}
+
+.cssout-button-wrapper
+{
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  height: 28px;
+  overflow: hidden;
+  white-space: nowrap;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  z-index: 0;
+}
+
+.firefox2 .cssout-button-wrapper
+{
+  display: block;
+  float: left;
+}
+
+input, select, textarea
+{
+  vertical-align: middle;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.cssout-block select 
+{
+    width:96%;
+}
+
+.cssout-button-wrapper.hover .cssout-button, .cssout-button-wrapper.hover a.cssout-button:link, .cssout-button:hover
+{
+  color: #05232E !important;
+  text-decoration: none !important;
+}
+
+.cssout-button-wrapper.active .cssout-button, .cssout-button-wrapper.active a.cssout-button:link
+{
+  color: #C9E6F3 !important;
+}
+
+.cssout-button-wrapper .cssout-button-l, .cssout-button-wrapper .cssout-button-r
+{
+  display: block;
+  position: absolute;
+  height: 94px;
+  margin: 0;
+  padding: 0;
+  background-image: url('images/button.png');
+}
+
+.cssout-button-wrapper .cssout-button-l
+{
+  left: 0;
+  right: 4px;
+}
+
+.cssout-button-wrapper .cssout-button-r
+{
+  width: 409px;
+  right: 0;
+  clip: rect(auto, auto, auto, 405px);
+}
+
+.cssout-button-wrapper.hover .cssout-button-l, .cssout-button-wrapper.hover .cssout-button-r
+{
+  top: -33px;
+}
+
+.cssout-button-wrapper.active .cssout-button-l, .cssout-button-wrapper.active .cssout-button-r
+{
+  top: -66px;
+}
+
+.cssout-button-wrapper input
+{
+  float: none !important;
+}
+/* end Button */
+
+/* begin Box, Post */
+.cssout-post
+{
+  position: relative;
+  min-width: 1px;
+  min-height: 1px;
+  margin: 5px;
+}
+
+.cssout-post-body
+{
+  position: relative;
+  padding: 10px;
+}
+
+a img
+{
+  border: 0;
+}
+
+.cssout-article img, img.cssout-article, .cssout-block img, .cssout-footer img
+{
+  border: solid 0 #97C6DD;
+  margin: 5px;
+}
+
+.cssout-metadata-icons img
+{
+  border: none;
+  vertical-align: middle;
+  margin: 2px;
+}
+
+.cssout-article table, table.cssout-article
+{
+  border-collapse: collapse;
+  margin: 1px;
+}
+
+.cssout-article th, .cssout-article td
+{
+  padding: 2px;
+  border: solid 1px #18A8DD;
+  vertical-align: top;
+  text-align: left;
+}
+
+.cssout-article th
+{
+  text-align: center;
+  vertical-align: middle;
+  padding: 7px;
+}
+
+pre
+{
+  overflow: auto;
+  padding: 0.1em;
+}
+
+/* end Box, Post */
+
+/* begin PostHeaderIcon */
+h2.cssout-postheader
+{
+  color: #0C5873;
+  margin: 5px 0;
+  font-size: 26px;
+}
+
+h2.cssout-postheader a, 
+h2.cssout-postheader a:link, 
+h2.cssout-postheader a:visited,
+h2.cssout-postheader a.visited,
+h2.cssout-postheader a:hover,
+h2.cssout-postheader a.hovered
+{
+  font-size: 26px;
+}
+
+h2.cssout-postheader a, h2.cssout-postheader a:link
+{
+  text-align: left;
+  text-decoration: none;
+  color: #0F698A;
+}
+
+h2.cssout-postheader a:visited, h2.cssout-postheader a.visited
+{
+  color: #337799;
+}
+
+h2.cssout-postheader a:hover,  h2.cssout-postheader a.hovered
+{
+  color: #00C7EB;
+}
+
+/* end PostHeaderIcon */
+
+/* begin PostMetadata, PostMetadataHeader */
+.cssout-postmetadataheader
+{
+  overflow:hidden;
+  padding: 1px;
+  background-image: url('images/postmetadataheader_bg.png');
+  border-color: #97C6DD;
+  border-style: solid;
+  border-width: 0;
+}
+/* end PostMetadata, PostMetadataHeader */
+
+/* begin PostIcons, PostHeaderIcons */
+.cssout-postheadericons,
+.cssout-postheadericons a,
+.cssout-postheadericons a:link,
+.cssout-postheadericons a:visited,
+.cssout-postheadericons a:hover
+{
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  color: #225068;
+}
+
+.cssout-postheadericons
+{
+  padding: 1px;
+}
+
+.cssout-postheadericons a, .cssout-postheadericons a:link
+{
+  text-decoration: none;
+  color: #0F698A;
+}
+
+.cssout-postheadericons a:visited, .cssout-postheadericons a.visited
+{
+  font-style: italic;
+  font-weight: normal;
+  color: #265973;
+}
+
+.cssout-postheadericons a:hover, .cssout-postheadericons a.hover
+{
+  font-style: italic;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #148CB8;
+}
+/* end PostIcons, PostHeaderIcons */
+
+/* begin PostBullets */
+.cssout-post ol, .cssout-post ul
+{
+  margin: 1em 0 1em 2em;
+  padding: 0;
+}
+
+.cssout-post li
+{
+  font-size: 14px;
+  color: #041C25;
+  padding: 0 0 0 11px;
+}
+
+.cssout-post li ol, .cssout-post li ul
+{
+  margin: 0.5em 0 0.5em 2em;
+  padding: 0;
+}
+
+.cssout-post ol>li
+{
+  background: none;
+  padding-left: 0;
+  /* overrides overflow for "ul li" and sets the default value */
+  overflow: visible;
+}
+
+.cssout-post ul>li
+{
+  background-image: url('images/postbullets.png');
+  background-repeat: no-repeat;
+  padding-left: 11px;
+  /* makes "ul li" not to align behind the image if they are in the same line */
+  overflow-x: visible;
+  overflow-y: hidden;
+}
+
+/* end PostBullets */
+
+/* begin PostQuote */
+.cssout-postcontent blockquote,
+.cssout-postcontent blockquote a,
+.cssout-postcontent blockquote a:link,
+.cssout-postcontent blockquote a:visited,
+.cssout-postcontent blockquote a:hover
+{
+  color: #081217;
+  font-style: italic;
+  font-weight: normal;
+  text-align: left;
+}
+
+.cssout-postcontent blockquote p
+{
+   margin: 2px 0 2px 15px;
+}
+
+.cssout-postcontent blockquote
+{
+   border: solid 0 #97C6DD;
+  margin: 10px 10px 10px 50px;
+  padding: 6px 6px 6px 30px;
+  background-color: #C9E1ED;
+  background-image: url('images/postquote.png');
+  background-position: left top;
+  background-repeat: no-repeat;
+  /* makes blockquote not to align behind the image if they are in the same line */
+  overflow: auto;
+  clear:both;
+}
+
+/* end PostQuote */
+
+/* begin PostIcons, PostFooterIcons */
+.cssout-postfootericons,
+.cssout-postfootericons a,
+.cssout-postfootericons a:link,
+.cssout-postfootericons a:visited,
+.cssout-postfootericons a:hover
+{
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  color: #2A627F;
+}
+
+.cssout-postfootericons
+{
+  padding: 1px;
+}
+
+.cssout-postfootericons a, .cssout-postfootericons a:link
+{
+  text-decoration: none;
+  color: #117BA1;
+}
+
+.cssout-postfootericons a:visited, .cssout-postfootericons a.visited
+{
+  color: #2C6886;
+}
+
+.cssout-postfootericons a:hover, .cssout-postfootericons a.hover
+{
+  color: #17A1D4;
+}
+/* end PostIcons, PostFooterIcons */
+
+/* begin Footer */
+.cssout-footer
+{
+  position: relative;
+  margin-top:0;
+  margin-bottom:0;
+  width: 100%;
+}
+
+.cssout-footer-t
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('images/footer_t.png');
+  background-position: left bottom;
+}
+
+.cssout-footer-body
+{
+    position:relative;
+    padding: 15px;
+}
+
+.cssout-footer-body .cssout-rss-tag-icon
+{
+  position: absolute;
+  left:   6px;
+  bottom:15px;
+  z-index:1;
+}
+
+.cssout-rss-tag-icon
+{
+  display: block;
+  background-image: url('images/rssicon.png');
+  background-position: center right;
+  background-repeat: no-repeat;
+  height: 32px;
+  width: 30px;
+  cursor: default;
+}
+
+.cssout-footer-text p
+{
+  padding:0;
+  margin:0;
+  text-align: center;
+}
+
+.cssout-footer-text,
+.cssout-footer-text a,
+.cssout-footer-text a:link,
+.cssout-footer-text a:visited,
+.cssout-footer-text a:hover,
+.cssout-footer-text td, 
+.cssout-footer-text th,
+.cssout-footer-text caption
+{
+    color: #132D3A;
+    font-size: 12px;
+}
+
+.cssout-footer-text
+{
+  min-height: 32px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.cssout-footer-text a,
+.cssout-footer-text a:link
+{
+  color: #107093;
+  text-decoration: none;
+}
+
+.cssout-footer-text a:visited
+{
+  color: #3680A5;
+}
+
+.cssout-footer-text a:hover
+{
+  color: #00C7EB;
+  text-decoration: underline;
+}
+
+div.cssout-footer img
+{
+/* WARNING do NOT collapse this to 'border' - inheritance! */
+    border-color: #97C6DD;
+  border-style: solid;
+  margin: 10px;
+}/* end Footer */
+
+/* begin PageFooter */
+.cssout-page-footer, 
+.cssout-page-footer a,
+.cssout-page-footer a:link,
+.cssout-page-footer a:visited,
+.cssout-page-footer a:hover
+{
+  font-family: Arial;
+  font-size: 10px;
+  letter-spacing: normal;
+  word-spacing: normal;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #0C546E;
+}
+
+.cssout-page-footer
+{
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  color: #1E475C;
+}
+/* end PageFooter */
+
+/* begin LayoutCell, content */
+
+/* end LayoutCell, content */
+
+

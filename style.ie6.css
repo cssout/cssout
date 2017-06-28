@@ -1,0 +1,413 @@
+textarea{cursor:text;}
+.down{vertical-align:middle;}
+#div_35c5_0{position:fixed; left:0px; top:0px;z-index:100;}
+#h4_2c82_0{display:none}
+#textarea_0{width:100%; height:300px;}
+#span_0{font-weight:bold;}
+#txtOrigHTMLCode{width:100%; height:300px; border:1px solid gray;}
+#span_1{font-weight:bold;}
+#textarea_1{width:100%; height:300px; border:1px solid gray;}
+#span_2{font-weight:bold;}
+#textarea_2{width:100%; height:300px; border:1px solid gray;}
+#h1_0{display:none;}
+
+img
+{
+  filter: expression(artFixPNG(this));
+}
+
+.cleared 
+{
+    width:1px;
+}
+/* end Page */
+
+/* begin Box, Sheet */
+.cssout-sheet, .cssout-sheet-body
+{
+  zoom: 1;
+}
+
+.cssout-sheet-tr, .cssout-sheet-tl, .cssout-sheet-br, .cssout-sheet-bl, .cssout-sheet-tc, .cssout-sheet-bc,.cssout-sheet-cr, .cssout-sheet-cl
+{
+  font-size: 1px;
+  background: none;
+}
+
+.cssout-sheet-tr, .cssout-sheet-tl, .cssout-sheet-br, .cssout-sheet-bl
+{
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/sheet_s.png',sizingMethod='scale')");
+}
+
+.cssout-sheet-tl
+{
+  clip: rect(auto 13px 13px auto);
+}
+
+.cssout-sheet-tr
+{
+  left:expression(this.parentNode.offsetWidth-26+'px');
+  clip: rect(auto auto 13px 13px);
+}
+
+.cssout-sheet-bl
+{
+  top: expression(this.parentNode.offsetHeight-26+'px');
+  clip: rect(13px 13px auto auto);
+}
+
+.cssout-sheet-br
+{
+  top: expression(this.parentNode.offsetHeight-26+'px');
+  left:expression(this.parentNode.offsetWidth-26+'px');
+  clip: rect(13px auto auto 13px);
+}
+
+.cssout-sheet-tc, .cssout-sheet-bc
+{
+  width: expression(this.parentNode.offsetWidth-26+'px');
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/sheet_h.png',sizingMethod='scale')");
+}
+
+.cssout-sheet-tc
+{
+  clip: rect(auto auto 13px auto);
+}
+
+.cssout-sheet-bc
+{
+  top: expression(this.parentNode.offsetHeight-26+'px');
+  clip: rect(13px auto auto auto);
+}
+
+.cssout-sheet-cr, .cssout-sheet-cl
+{
+  height: expression(this.parentNode.offsetHeight-26+'px');
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/sheet_v.png',sizingMethod='scale')");
+}
+
+.cssout-sheet-cr
+{
+  left:expression(this.parentNode.offsetWidth-26+'px');
+  clip: rect(auto auto auto 13px);
+}
+
+.cssout-sheet-cl
+{
+  clip: rect(auto 13px auto auto);
+}
+
+.cssout-sheet-cc
+{
+  font-size: 1px;
+  width: expression(this.parentNode.offsetWidth-26+'px');
+  height: expression(this.parentNode.offsetHeight-26+'px');
+  background-color: #FFFFFF;
+}
+#cssout-page-background-top-texture, #cssout-page-background-middle-texture
+{
+  width: expression(document.body.clientWidth>700?"100%":"700px");
+}
+
+.cssout-sheet
+{
+   width:expression(artFluidSheetComputedWidth('90%', 700, 1728));
+}
+/* end Box, Sheet */
+
+/* begin Menu */
+.cssout-hmenu ul
+{
+  width: 1px;
+  height: 1%;
+}
+
+.cssout-hmenu li.cssout-hmenuhover
+{
+  z-index: 10000;
+}
+
+.cssout-hmenu .cssout-hmenuhoverUL
+{
+  visibility: visible;
+  top: 100%;
+  left: 0;
+}
+
+.cssout-hmenu .cssout-hmenuhoverUL .cssout-hmenuhoverUL
+{
+  top: 0;
+  left: 100%;
+}
+
+.cssout-hmenu, .cssout-hmenu ul a
+{
+  height: 1%;
+}
+
+.cssout-hmenu li li
+{
+  float: left;
+  width: 100%;
+}
+
+.cssout-nav
+{
+  zoom: 1;
+  height: 28px;
+}
+
+.cssout-nav-l, .cssout-nav-r
+{
+  font-size: 1px;
+  height: 28px;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/nav.png',sizingMethod='crop')");
+}
+
+.cssout-nav-l
+{
+  width: expression(this.parentNode.offsetWidth-0+'px');
+}
+
+.cssout-nav-r
+{
+  left: expression(this.parentNode.offsetWidth-1920+'px');
+  clip: rect(auto auto auto 1920px);
+}
+
+/* end Menu */
+
+/* begin MenuItem */
+.cssout-hmenu a
+{
+  display:inline-block;
+}
+
+.cssout-hmenu a:hover, .cssout-hmenuhoverA {
+	visibility:visible;
+}
+
+.cssout-hmenu a .r, .cssout-hmenu a .l
+{
+  font-size: 1px;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/menuitem.png',sizingMethod='crop')");
+}
+
+.cssout-hmenu a .r
+{
+  left:100%;
+  margin-left:-400px;
+  clip: rect(auto auto auto 400px);
+}
+
+.cssout-hmenu a .l
+{
+  width: expression(this.parentNode.offsetWidth-0+'px');
+}
+
+.cssout-hmenuhover .cssout-hmenuhoverA .t
+{
+  color: #0A2029;
+}
+
+.cssout-hmenuhover .cssout-hmenuhoverA .l, .cssout-hmenuhover .cssout-hmenuhoverA .r
+{
+  top: -28px;
+}
+/* end MenuItem */
+
+/* begin MenuSeparator */
+.cssout-nav .cssout-hmenu-separator
+{
+  font-size: 1px;
+  zoom: 1;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/menuseparator.png',sizingMethod='crop')");
+}
+
+/* end MenuSeparator */
+
+/* begin MenuSubItem */
+.cssout-hmenu ul a
+{
+  color: #093F53 !important;
+}
+
+.cssout-hmenu ul a:hover {
+  color: #000000 !important;
+}	
+
+.cssout-hmenu ul .cssout-hmenuhover .cssout-hmenuhoverA
+{
+  color: #000000 !important;
+  border-color: #75CFF0;
+  background-position: 0 -26px;
+}
+
+.cssout-nav .cssout-hmenu ul a:hover span, .cssout-nav .cssout-hmenu ul a:hover span span
+{
+  color: #000000 !important;
+}	
+
+.cssout-nav .cssout-hmenu ul .cssout-hmenuhover .cssout-hmenuhoverA span, .cssout-nav .cssout-hmenu ul .cssout-hmenuhover .cssout-hmenuhoverA span span
+{
+  color: #000000 !important;
+}
+
+/* end MenuSubItem */
+
+/* begin Layout */
+.cssout-content-layout, .cssout-content-layout-row {display: block;}
+.cssout-content-layout, .cssout-content-layout-row {zoom: 1;}
+/* end Layout */
+
+/* begin Box, Block */
+.cssout-block, .cssout-block-body
+{
+  zoom: 1;
+}
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+.cssout-blockcontent, .cssout-blockcontent-body
+{
+  zoom: 1;
+}
+.cssout-blockcontent-body ul li
+{
+  height: 1%;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/blockcontentbullets.png',sizingMethod='crop')");
+}
+
+/* end Box, BlockContent */
+
+/* begin Button */
+.cssout-button-wrapper, .cssout-button-wrapper .cssout-button-l, .cssout-button-wrapper .cssout-button-r
+{
+  zoom: 1;
+}
+
+.cssout-button-wrapper .cssout-button
+{
+  float: left;
+}
+
+.cssout-button-wrapper .cssout-button-l, .cssout-button-wrapper .cssout-button-r
+{
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/button.png',sizingMethod='crop')");
+}
+
+.cssout-button-wrapper .cssout-button-r
+{
+  left:expression(this.parentNode.offsetWidth-409+'px');
+  clip: rect(auto auto auto 405px);
+}
+
+.cssout-button-wrapper .cssout-button-l
+{
+  width: expression(this.parentNode.offsetWidth-4+'px');
+}
+/* end Button */
+
+/* begin Box, Post */
+.cssout-post, .cssout-post-body
+{
+  zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostMetadata, PostMetadataHeader */
+.cssout-postmetadataheader
+{
+    zoom:1;
+        background: none;
+    behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/postmetadataheader_bg.png',sizingMethod='scale')");
+    }
+
+/* end PostMetadata, PostMetadataHeader */
+
+/* begin PostBullets */
+.cssout-post ul li, .cssout-post ol ul li
+{
+  height: 1%;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/postbullets.png',sizingMethod='crop')");
+  padding-left: 11px;
+  /* makes "ul li" not to align behind the image if they are in the same line */
+  overflow-x: visible;
+  overflow-y: hidden;
+}
+
+.cssout-post ul ol li
+{
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="");
+  padding-left: 0;
+  /* overrides overflow for "ul li" and sets the default value */
+  overflow: visible;
+}
+/* end PostBullets */
+
+/* begin PostQuote */
+.cssout-postcontent blockquote
+{
+  height: 1%;
+  background-image: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/postquote.png',sizingMethod='crop')");
+}
+/* end PostQuote */
+
+/* begin Footer */
+.cssout-footer-body
+{
+    padding-right: 0;
+  zoom:1;
+}
+
+.cssout-footer{
+  zoom:1;
+}
+
+.cssout-footer-text
+{
+  height: 32px;
+}
+
+.cssout-footer-t
+{
+  zoom: 1;
+  font-size: 1px;
+  height: expression(this.parentNode.offsetHeight-0+'px');
+  width: 100%;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/footer_t.png',sizingMethod='scale')");
+}
+
+.cssout-rss-tag-icon
+{
+  zoom: 1;
+  font-size: 1px;
+  background: none;
+  behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/rssicon.png',sizingMethod='crop')");
+}
+
+/* end Footer */
+
+/* begin LayoutCell, content */
+
+.cssout-content {width: auto;}
+.cssout-content-layout .cssout-layout-cell, .cssout-content-layout .cssout-layout-cell .cssout-content-layout .cssout-layout-cell
+{
+  display: block;
+  position:relative;
+  float: left;
+  clear: right;
+}
+.cssout-content-layout .cssout-layout-cell, .cssout-content-layout .cssout-layout-cell .cssout-content-layout .cssout-layout-cell {zoom:1;}
+
+/* end LayoutCell, content */
+
